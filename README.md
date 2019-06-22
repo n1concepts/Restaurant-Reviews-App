@@ -5,7 +5,7 @@
 
 The goal for the  **Restaurant Reviews**  projects was to demonstrate understanding regarding Responsive design, service workers to cache the content and accessibility.
 
-## Specification
+## Specifications
 
 The project was evaluated by a Udacity code reviewer according to the Restaurant Reviews project rubric. Students had to review the project rubric for detailed project requirements. The rubric provided all the resources to which I had to refer to, periodically, to make sure the project / code met specifications.
 
